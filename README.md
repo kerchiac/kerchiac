@@ -4,12 +4,11 @@
 I'm Ker Chia Chen from the United States, and I have experienced in software application development and offering skills in problem-solving and interpersonal communication. And I enjoy working with cross-cultural and global teams.
 
 ## Skills and Experience
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/html_icon.png?raw=true' alt='github' height='40'>]()
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/css_icon.png?raw=true' alt='github' height='40'>]()
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/js_icon.png?raw=true' alt='github' height='50'>]()
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/html_icon.png?raw=true' alt='html' height='40'>]()
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/css_icon.png?raw=true' alt='css' height='40'>]()
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/js_icon.png?raw=true' alt='js' height='50'>]()
 
 ## Examples of Work
-
-
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/boba.gif?raw=true' alt='boba' height='256'>](https://boba-shop-app.herokuapp.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kerchiac&show_icons=true)  

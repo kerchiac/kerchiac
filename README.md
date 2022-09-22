@@ -1,4 +1,4 @@
-![I am a web application developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a web application developer.](https://github.com/kerchiac/kerchiac/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner.png?raw=true)
 
 # Ker Chia Chen
 I'm Ker Chia Chen from the United States, and I have experienced in software application development and offering skills in problem-solving and interpersonal communication. And I enjoy working with cross-cultural and global teams.

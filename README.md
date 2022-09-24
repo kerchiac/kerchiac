@@ -17,4 +17,5 @@ systematic creative problems solver, great collaborator, and excellent communica
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://kerchiac.github.io/CV//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://kerchiac.github.io/CV/)  
 
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kerchiac&show_icons=true)  

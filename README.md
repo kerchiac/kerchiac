@@ -1,5 +1,6 @@
 ![I am a web application developer.](https://github.com/kerchiac/kerchiac/blob/main/Pink%20and%20Peach%20Technology%20LinkedIn%20Banner.png?raw=true)
 
+## About Me
 I'm Ker Chia Chen from the United States, and I have experienced in software application development and offering skills in problem-solving and interpersonal communication. And I enjoy working with cross-cultural and global teams.
 
 systematic creative problems solver, great collaborator, and excellent communicator.

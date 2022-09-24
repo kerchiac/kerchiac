@@ -2,6 +2,9 @@
 
 I'm Ker Chia Chen from the United States, and I have experienced in software application development and offering skills in problem-solving and interpersonal communication. And I enjoy working with cross-cultural and global teams.
 
+systematic creative problems solver, great collaborator, and excellent communicator.
+
+
 ## Skills and Experience
 [<img src='https://github.com/kerchiac/kerchiac/blob/main/html_icon.png?raw=true' alt='html' height='40'>]()
 [<img src='https://github.com/kerchiac/kerchiac/blob/main/css_icon.png?raw=true' alt='css' height='40'>]()

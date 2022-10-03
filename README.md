@@ -4,12 +4,12 @@
 I'm Ker Chia Chen, a Frontend | Full Stack Web Developer from Los Angeles, California, USA. I love combining logic and creative design to help businesses streamline business processes and make eye-catching, user-friendly websites and applications. I have experience problem solving from mechanical system design and manufacturing operations management to web application development. 
 
 ## Skills and Experience
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/html_icon.png?raw=true' alt='html' height='40'>]()
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/css_icon.png?raw=true' alt='css' height='40'>]()
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/js_icon.png?raw=true' alt='js' height='50'>]()
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/html_icon.png?raw=true' alt='html' height='40'>](https://github.com/kerchiac)
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/css_icon.png?raw=true' alt='css' height='40'>](https://github.com/kerchiac)
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/js_icon.png?raw=true' alt='js' height='50'>](https://github.com/kerchiac)
 
 ## Examples of Work
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true' alt='projects' height='256'>]()
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true' alt='projects' height='256'>](https://github.com/kerchiac)
 
 
 

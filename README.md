@@ -9,7 +9,7 @@ I'm Ker Chia Chen, a Frontend | Full Stack Web Developer from Los Angeles, Calif
 [<img src='https://github.com/kerchiac/kerchiac/blob/main/js_icon.png?raw=true' alt='js' height='50'>](https://github.com/kerchiac)
 
 ## Examples of Work
-[<img src='https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true' alt='projects' height='256'>](https://github.com/kerchiac)
+[<img src='https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true' alt='projects' height='256'>](https://kerchiac.github.io/portfolio/)
 
 
 

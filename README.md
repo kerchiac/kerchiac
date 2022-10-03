@@ -10,6 +10,7 @@ I'm Ker Chia Chen, a Frontend | Full Stack Web Developer from Los Angeles, Calif
 
 ## Examples of Work
 [<img src='https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true' alt='projects' height='256'>]()
+<a>![projects]([https://example.com/image.png](https://github.com/kerchiac/kerchiac/blob/main/projects.gif?raw=true))</a>
 
 
 
